@@ -5,5 +5,6 @@ public class GitPractice {
 
         System.out.println("Hello world");
         System.out.println("Cybertek School");
+        System.out.println("hi");
     }
 }
